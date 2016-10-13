@@ -1,0 +1,52 @@
+<center>
+<div id="container">
+<table id="inside" cellspacing="0" border="0">
+<tr>
+<td colspan="2" id="one">
+BIO-DATA
+</td>
+</tr>
+<tr>
+<td id="two">
+Name     :   S.B.JABEER
+</td>
+<tr>
+<td id="three">
+Age     :    21
+</td>
+</tr>
+<td id="four">
+DOB     :   05-09-1995
+</td>
+<tr>
+<td id="five">
+Father name : S.B.Arifulla
+</td>
+<tr>
+<td colspan="2" id="five">
+Address : saveetha university,saveetha school of engineering,chennai<br>
+</td>
+<tr>
+<td id="six">
+Email ID :  jabeersb@gmail.com
+</td>
+<tr>
+<td id="seven">
+Education : B.E(E.C.E)
+</td>
+<tr>
+<td id="eight">
+Skills   :   C,C++
+</td>
+<tr>
+<td id="nine">
+Languages Known : English,Telugu,Urdu,Hindi
+</td>
+<tr>
+<td id="ten">
+ Mobile no - 7013372119
+</td>
+</tr>
+</table>
+</div>
+</center>
